@@ -19,5 +19,8 @@
   "homepage": "https://github.com/dev-sav/web-crawler#readme",
   "devDependencies": {
     "jest": "^30.0.2"
+  },
+  "dependencies": {
+    "jsdom": "^26.1.0"
   }
 }
